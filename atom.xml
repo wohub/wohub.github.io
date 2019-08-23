@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.86400.top/"/>
-  <updated>2019-08-23T04:26:36.629Z</updated>
+  <updated>2019-08-23T13:10:01.163Z</updated>
   <id>http://www.86400.top/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Shadowsocks帮助</title>
+    <link href="http://www.86400.top/default/shadowsocks%E5%B8%AE%E5%8A%A9/"/>
+    <id>http://www.86400.top/default/shadowsocks帮助/</id>
+    <published>2019-08-23T12:58:10.000Z</published>
+    <updated>2019-08-23T13:10:01.163Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Shadowsocks-帮助导航"><a href="#Shadowsocks-帮助导航" class="headerlink" title="Shadowsocks 帮助导航"></a>Shadowsocks 帮助导航</h1><blockquote><p>Shadowsocks终极帮助导航，希望对你有所帮助！</p></blockquote><h2 id="Shadowsocks-简介"><a href="#Shadowsocks-简介" class="headerlink" title="Shadowsocks 简介"></a>Shadowsocks 简介</h2><ul><li><a href="https://shadowsocks-help.github.io/Shadowsocks/whats-shadowsocks.html" target="_blank" rel="noopener">Shadowsocks 简介</a> </li><li><a href="https://shadowsocks-help.github.io/Shadowsocks/Shadowsocks-wiki.html" target="_blank" rel="noopener">Shadowsocks 的前世今生</a> </li><li><a href="https://shadowsocks-help.github.io/Shadowsocks/Shadowsocks-server.html" target="_blank" rel="noopener">Shadowsocks 节点服务器个人搭建指南</a> </li><li><a href="https://shadowsocks.org/" target="_blank" rel="noopener">Shadowsocks 官网 - 不提供SS服务</a> </li><li><a href="https://github.com/shadowsocks" target="_blank" rel="noopener">Shadowsocks GitHub 代码地址</a> | </li></ul><h2 id="Shadowsocks-使用"><a href="#Shadowsocks-使用" class="headerlink" title="Shadowsocks 使用"></a>Shadowsocks 使用</h2><ul><li><a href="https://shadowsocks-help.github.io/Shadowsocks/" target="_blank" rel="noopener">Shadowsocks 终极使用指南</a> </li><li><a href="https://shadowsocks-help.github.io/Shadowsocks/windows.html" target="_blank" rel="noopener">微软 Windows</a> </li><li><a href="https://shadowsocks-help.github.io/Shadowsocks/Android.html" target="_blank" rel="noopener"> 安卓 Android</a> </li><li><a href="https://shadowsocks-help.github.io/Shadowsocks/ios.html" target="_blank" rel="noopener">苹果 iOS</a> </li><li><a href="https://shadowsocks-help.github.io/Shadowsocks/mac.html" target="_blank" rel="noopener"> 苹果 macOS</a> </li><li><a href="https://shadowsocks-help.github.io/Shadowsocks/linux.html" target="_blank" rel="noopener">Linux</a> </li><li><a href="https://shadowsocks-help.github.io/Shadowsocks/Chrome.html" target="_blank" rel="noopener">Chrome 设置</a> </li></ul><h2 id="Shadowsocks-工具"><a href="#Shadowsocks-工具" class="headerlink" title="Shadowsocks 工具"></a>Shadowsocks 工具</h2><ul><li><a href="https://shadowsocks-help.github.io/Potatso-Lite" target="_blank" rel="noopener">Potatso Lite 代理工具在线安装</a> </li><li><a href="https://shadowsocks-help.github.io/ios" target="_blank" rel="noopener">Shadowrocket 小火箭在线安装</a> </li><li><a href="https://shadowsocks-help.github.io/Shadowsocks/download.html" target="_blank" rel="noopener">Shadowsocks 客户端软件备用下载地址</a> </li></ul><h2 id="Shadowsocks-其他"><a href="#Shadowsocks-其他" class="headerlink" title="Shadowsocks 其他"></a>Shadowsocks 其他</h2><ul><li><a href="https://shadowsocks-help.github.io/Shadowsocks/appleid.html" target="_blank" rel="noopener">苹果APPLE ID美区账号免费共享</a> </li><li><a href="https://shadowsocks-help.github.io/Shadowsocks/apple-id.html" target="_blank" rel="noopener">如何注册苹果APPLE ID美区账号</a> | </li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;Shadowsocks-帮助导航&quot;&gt;&lt;a href=&quot;#Shadowsocks-帮助导航&quot; class=&quot;headerlink&quot; title=&quot;Shadowsocks 帮助导航&quot;&gt;&lt;/a&gt;Shadowsocks 帮助导航&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;S
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
